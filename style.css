@@ -1,0 +1,25 @@
+.demo-view{
+    position: absolute;
+    top: -15px;
+    left: -12px;
+}
+.healthy_facts{
+    position: absolute;
+    top: 0px;
+    left: 8px;
+}
+.take_food, .moderation {
+    color:#000000;
+}
+
+.demo-view2{
+    position: absolute;
+    top: -15px;
+    right: 0px;
+}
+
+.demo-view3{
+    position: absolute;
+    top: -15px;
+    left: 560px;
+}
